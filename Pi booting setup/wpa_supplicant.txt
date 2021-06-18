@@ -1,0 +1,8 @@
+country=IN
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+network={
+      	ssid="Infinity"
+	psk="09876543"
+	key_mgmt=WPA-PSK
+}
