@@ -1,7 +1,7 @@
 # Image-to-speech-conversion-using-raspberry-pi ![trainyinfi-hardware-badge](https://img.shields.io/badge/Hardware-hardware.svg)
 > In this project, we developed a device that converts an image’s text to speech. The basic framework is an embedded system that captures an image, extracts
 only the region of interest and converts that text to speech.
-> Live demo [_here_](https://drive.google.com/folderview?id=1-09l5MmhXh5qg0vCnIxF2nkxywEJRvMP).
+> Live demo [_here_](https://image-to-speech-conversion-output.netlify.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
